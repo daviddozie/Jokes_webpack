@@ -53,7 +53,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, `* {
 }
 
 body {
-  background-color: #2fa8cc;
+  background-color: maroon;
   font-family: "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
@@ -95,7 +95,7 @@ img {
 }
 
 .btn {
-  background-color: #2fa8cc;
+  background-color: maroon;
   color: #f4f4f4;
   border: 0;
   border-radius: 10px;
